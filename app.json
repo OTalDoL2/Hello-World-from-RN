@@ -1,0 +1,12 @@
+{
+  "name": "calculatorRn",
+  "displayName": "calculatorRn",
+  "expo": {
+    "name": "calculatorRn",
+    "slug": "calculatorRn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
